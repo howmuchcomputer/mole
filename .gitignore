@@ -1,2 +1,5 @@
 /bin/
 /coverage.txt
+
+/tests/key
+/tests/key.pub
